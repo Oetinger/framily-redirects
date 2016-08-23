@@ -1,0 +1,7 @@
+{
+  "require": {
+    "aboustayyef/url-resolver": "dev-master",
+    "monolog/monolog": "~1.21",
+    "bramus/monolog-colored-line-formatter": "~2.0"
+  }
+}
